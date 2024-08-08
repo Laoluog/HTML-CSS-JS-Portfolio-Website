@@ -397,6 +397,7 @@ article.icon {
 .project-btn {
     color: black;
     border-color: rgb(163, 163, 163);
+    margin-top: 0.5rem;
 }
 
 /* CONTACT */
@@ -405,7 +406,7 @@ article.icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    height: 80vh;
 }
 
 .contact-info-upper-container {
