@@ -550,4 +550,7 @@ footer p {
     .text-container {
         text-align: justify;
     }
+    .contact-icon {
+        padding-left: 0.3rem;
+    }
 }
